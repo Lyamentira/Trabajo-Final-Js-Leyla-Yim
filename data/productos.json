@@ -1,0 +1,38 @@
+[
+    { "id": "taza-01",
+      "nombre": "Taza", 
+      "precio": 20, 
+      "imagen": "./imagen/merc_1.png",
+      "categoría": "Taza"}, 
+  
+    { "id": "polo-01",
+      "nombre": "Polo",
+      "precio": 30, 
+      "imagen":"./imagen/merc_2.png",
+      "categoría": "Ropa"}, 
+    
+    { "id": "camisa-01",
+       "nombre": "Camisa",
+       "precio": 50, 
+       "imagen": "./imagen/merc_3.png",
+       "categoría": "Ropa"}, 
+    
+    { "id": "estampa-01",
+      "nombre": "Estampa", 
+      "precio": 5,
+      "imagen":"./imagen/merc_4.png",
+      "categoría": "Estampa"}, 
+
+      { "id": "polera-01",
+      "nombre": "Polera", 
+      "precio": 60,
+      "imagen":"./imagen/merc_5.png",
+      "categoría": "Ropa"},
+
+      { "id": "cartuchera-01",
+      "nombre": "Cartuchera", 
+      "precio": 15,
+      "imagen":"./imagen/merc_6.png",
+      "categoría": "Útiles"}
+
+]

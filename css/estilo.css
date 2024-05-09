@@ -30,7 +30,7 @@
   text-decoration: underline;
 }
 
-.botonL {
+.botonL{
   background-color: #fffaac;
   color: #000000;
 }
@@ -181,3 +181,10 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+/* 07_05 SE AGREGO EL TAMAÑO DEL CARRITO */
+.carrito-header{
+  font-size: 20px;
+  text-decoration: none;
+}
+
